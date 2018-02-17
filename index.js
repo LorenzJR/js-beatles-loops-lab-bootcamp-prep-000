@@ -5,14 +5,13 @@ function theBeatlesPlay(musician, instrument){
   }
   return pairs
 }
-/*
+
 function johnLennonFacts(facts) {
     while (i < facts.length){
     facts[i] = `${facts[i]}!!!`
   }
   return facts
 }
-*/
 
 function iLoveTheBeatles(n){
   var array = [];
